@@ -1,4 +1,5 @@
 body{
-    background: url('images/fond_jaune.png');
+    background-image: url('images/fond_jaune.png');
+    background-repeat: repeat;
     color: #181818;
 }
