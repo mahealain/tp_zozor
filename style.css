@@ -28,5 +28,14 @@ body
 {
     background: url('images/fond_jaune.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    color: blue;
+    color:#181818;
+}
+header
+{
+    display:flex;
+    background: url('images/separateur.png') repeat-x bottom;
+
+}
+nav{
+    box-align: flex-end;
 }
