@@ -52,3 +52,9 @@ section h1, footer h1, nav a
     font-family: Dayrom, serif;
     font-weight: normal;
 }
+#logo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
