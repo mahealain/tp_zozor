@@ -68,3 +68,10 @@ section h1, footer h1, nav a
     width: 59px;
     height: 60px;
 }
+header h2
+{
+    font-family: Dayrom, serif;
+    font-size: 1.1em;
+    margin-top: 0px;
+    font-weight: normal;
+}
