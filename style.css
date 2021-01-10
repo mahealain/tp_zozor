@@ -202,8 +202,6 @@ aside img
     margin-right: 5px;
 }
 
-/* Footer */
-
 footer
 {
     display: flex;
@@ -235,8 +233,6 @@ footer h1
 #mes_amis
 {
     width: 31%;
-    display:flex;
-    flex-direction: row;
 }
 
 #mes_photos img
@@ -249,12 +245,12 @@ footer h1
 {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 0;
- }
+    margin-top: 0;
+}
 
 #mes_amis ul
 {
-    relative
+    list-style-image: url('images/ico_liensexterne.png');
     padding-left: 2px;
 }
 
@@ -262,12 +258,4 @@ footer h1
 {
     text-decoration: none;
     color: #760001;
-}
-#1amis , #2amis
-{
-    relative
-    padding-left: 2px;
-    bottom: 100px;
-    left: -12px;
-    list-style-image: url('images/ico_liensexterne.png');
 }
