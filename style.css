@@ -58,3 +58,13 @@ section h1, footer h1, nav a
     flex-direction: row;
     align-items: baseline;
 }
+#zozor
+{
+    display: flex;
+    flex-direction: column;
+}
+#logo img
+{
+    width: 59px;
+    height: 60px;
+}
