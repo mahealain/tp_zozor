@@ -148,3 +148,17 @@ nav a:hover
 {
     border: 0;
 }
+section
+{
+    display: flex;
+    margin-bottom: 20px;
+}
+article, aside
+{
+    text-align: justify;
+}
+article
+{
+    margin-right: 20px;
+    flex: 3;
+}
