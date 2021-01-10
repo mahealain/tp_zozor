@@ -29,13 +29,20 @@ body
     background: url('images/fond_jaune.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color:#181818;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 header
 {
     display:flex;
     background: url('images/separateur.png') repeat-x bottom;
 
+
 }
 nav{
     box-align: flex-end;
+}
+#bloc_page
+{
+    max-width: 800px;
+    margin:auto;
 }
